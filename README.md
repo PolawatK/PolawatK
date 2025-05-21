@@ -3,7 +3,7 @@
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWk5d2ZmMTJqbmdsbmwxMW5xMG9vcHNndHZmOHd1OWZldWhkM3N6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.facebook.com/KratesFolks/)">
+  <a href="https://www.facebook.com/KratesFolks/">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook badge"/>
   </a>
 </div>
