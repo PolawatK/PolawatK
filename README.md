@@ -6,6 +6,8 @@
   <a href="https://www.facebook.com/KratesFolks/">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook badge"/>
   </a>
+    <br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
