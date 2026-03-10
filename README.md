@@ -13,7 +13,7 @@
 <div align="center">
 <div>
   Hi i'm Polawat Krates
-  i want to be a full stack developer
+  I want to be a Full-stack developer
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
